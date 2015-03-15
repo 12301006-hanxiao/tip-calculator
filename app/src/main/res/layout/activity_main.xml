@@ -121,7 +121,7 @@
     <TextView
         android:id="@+id/tipTextView"
         android:layout_gravity="right|center_vertical"
-        android:text="@string/total"
+        android:text="@string/tip"
         android:textAppearance="?android:attr/textAppearanceMedium"  />
 
     <LinearLayout
